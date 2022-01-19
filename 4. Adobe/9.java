@@ -1,0 +1,1 @@
+// Ques - Smallest palindromic number greater than N using the same set of digits as in N.
