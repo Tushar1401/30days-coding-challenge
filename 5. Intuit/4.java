@@ -6,7 +6,7 @@ public static void swap(char[] str, int i, int j){
     str[j] = ch;
 }
 
-static String max;
+public static String max;
 public static void helper(char[] str, int k){
     if(max.compareTo(String.valueOf(str)) < 0){
         max = String.valueOf(str);
